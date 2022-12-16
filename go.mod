@@ -1,3 +1,3 @@
-module github.com/gorilla/websocket
+module github.com/TheTeaParty/websocket
 
-go 1.12
+go 1.19
